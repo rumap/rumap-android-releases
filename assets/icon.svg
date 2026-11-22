@@ -1,0 +1,24 @@
+<svg width="88" height="88" viewBox="0 0 88 88" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="rumap">
+  <rect width="88" height="88" rx="22" fill="#0B1430" />
+  <g transform="translate(8, 8) scale(0.112)">
+    <rect x="194.24" y="143.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="245.24" y="143.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="296.24" y="143.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="347.24" y="143.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="194.24" y="194.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="398.24" y="194.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="194.24" y="245.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="398.24" y="245.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="194.24" y="296.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="245.24" y="296.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="296.24" y="296.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="347.24" y="296.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="194.24" y="347.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="296.24" y="347.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="194.24" y="398.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="347.24" y="398.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="194.24" y="449.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="398.24" y="449.24" width="47.52" height="47.52" rx="7" fill="#FF8466" />
+    <rect x="403" y="148" width="38" height="38" rx="7" fill="none" stroke="#FFD2C2" stroke-width="5" />
+  </g>
+</svg>
